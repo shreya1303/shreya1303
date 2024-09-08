@@ -1,4 +1,4 @@
--  Hi, I’m Shreya Mohod
+-  Hi, I’m Shreya Mohod.
 -  I’m interested in full stack web development.
 -  I’m currently learning react.js and backend development.
 -  I’m looking to collaborate on web development projects.
